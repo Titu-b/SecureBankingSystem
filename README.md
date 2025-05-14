@@ -14,17 +14,29 @@ A secure client-server banking simulation developed in Java using TCP sockets, m
 
 ## Project Structure
 /bank/
+
 ├── client/ # ATM clients: GUI and CLI
+
 │ ├── ATMClient.java
+
 │ ├── ATMClientCLI.java
+
 │ └── ATMGUI.java
+
 ├── server/ # Server-side logic
+
 │ ├── BankServer.java
+
 │ ├── ClientHandler.java
+
 │ └── AuditLogger.java
+
 ├── shared/ # Shared cryptographic utilities
+
 │ └── CryptoUtil.java
+
 └── tools/ # Audit log decryption tool
+
 └── AuditLogDecryptor.java
 
 
