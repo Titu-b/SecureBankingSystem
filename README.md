@@ -83,8 +83,3 @@ A secure client-server banking simulation developed in Java using TCP sockets, m
   Final-year Computer Engineering student at Toronto Metropolitan University  
   Project developed for COE817: Network Security, Winter 2025
 
-## License
-
-This project is for academic and educational use.  
-All rights reserved by the original authors.
-
